@@ -14,7 +14,7 @@ I'm on an exciting journey as a beginner programmer. Programming adds a new dime
 I'm getting started with python. As a beginner, I'm eager to build a strong foundation in programming.
 
 🌱 Learning Goals:
-My current focus is on python/data analysis. I believe that coding has the potential to revolutionize the way we approach energy challenges.
+My current focus is on data analysis. I believe that data analysis has the potential to revolutionize the way we approach energy challenges.
 
 📫 Let's Connect:
 Reach out if you're interested in connecting on energy-related projects or if you're a fellow programming enthusiast.
